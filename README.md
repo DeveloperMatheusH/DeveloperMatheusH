@@ -6,5 +6,13 @@ Desenvolvedor do aplicativo LumiAprende e LumiConnect, usado para ajudar profess
 
 📍Estudando Java 
 
-  
+
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+
+
+
+<div>
+  <a href="https://www.instagram.com/tetheuziin__/" target="_blank"><img widht="10%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</div>
